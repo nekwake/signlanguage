@@ -1,0 +1,19 @@
+C:\Users\...\AppData\Roaming\Python\Python39\Scripts\f2py.exe
+
+pip install --user tensorflow==2.5.1 tensorflow-gpu==2.5.1 opencv-python mediapipe scikit-learn matplotlib
+pip install mediapipe
+{
+pip install --upgrade tensorflow tensorflow-gpu
+
+*pip uninstall flatbuffers
+*pip install flatbuffers==1.12.0
+
+}
+
+pip install scikit-learn
+python -m pip install mediapipe
+python -m pip install "tensorflow==2.5.1"
+python.exe -m pip install --upgrade pip
+pip install tensorflow-gpu==2.5.1 keras==2.3.1
+python -m pip install -U matplotlib
+python -m pip install -U pip
