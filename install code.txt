@@ -17,3 +17,5 @@ python.exe -m pip install --upgrade pip
 pip install tensorflow-gpu==2.5.1 keras==2.3.1
 python -m pip install -U matplotlib
 python -m pip install -U pip
+
+
